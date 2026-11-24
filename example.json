@@ -1,0 +1,7 @@
+{
+  "name": "influxdb-vscode-student",
+  "engine": "influxdb",
+  "slug": "influxdb",
+  "kind": "student",
+  "useCase": "student"
+}
